@@ -1,2 +1,3 @@
 # CS321-FINAL-SUBMISSION
-CS321-group 4
+CS321 GMU Summer 2023, Final Submission
+Group 4
